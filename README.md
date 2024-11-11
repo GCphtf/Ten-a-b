@@ -226,8 +226,8 @@ ja18 = 12229665
 
 # Define paths for input and output
 acc_list_path = "/public/home/tongchaogroup/yijielin/Acc_List/Mz19_Acc_List.txt"
-outpath1 = "/public/home/tongchaogroup/yijielin/find_junction_from_sj_file/PN_Mz19_all_jc_have_a_see_b_dayu10.csv"
-outpath2 = "/public/home/tongchaogroup/yijielin/find_junction_from_sj_file/PN_Mz19_all_jc_have_a_see_b_xiaoyu10.csv"
+outpath1 = "/public/home/tongchaogroup/yijielin/find_junction_from_sj_file/PN_Mz19_all_jc_have_a_see_b_xiaoyu10.csv"
+outpath2 = "/public/home/tongchaogroup/yijielin/find_junction_from_sj_file/PN_Mz19_all_jc_have_a_see_b_dayu10.csv"
 # Initialize lists to store SRR IDs and junction counts
 SRR_list = []
 Junction_count_b = []
