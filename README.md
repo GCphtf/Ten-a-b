@@ -294,7 +294,7 @@ jc_df_b = pd.DataFrame({
 
 final_df1 = jc_df_b[jc_df_b["Junction_count"] == 0]
 
-final_df1.to_csv(outpath2, index=False)
+final_df1.to_csv(outpath1, index=False)
 print(f"Results saved to: {outpath1}")
 
 final_df2 = jc_df_b[(jc_df_b["Junction_count"] >= 10) & (jc_df_b["Junction_count"] <= 10000)]
